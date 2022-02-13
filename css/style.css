@@ -74,3 +74,20 @@ h6{
 .social-icons img{
     width: 18px;
 }
+.footer ul{
+    padding: 0;
+    margin: 0;
+}
+.footer ul li{
+    list-style: none;
+    line-height: 2em;
+}
+.footer ul li a{
+    text-decoration: none;
+    color: var(--footer-fonts-color);
+    font-size: .9em;
+}
+.footer ul li a:hover{
+    color: var(--default-color);
+    transition: 1s;
+}
