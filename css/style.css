@@ -69,7 +69,6 @@ h6{
 }
 .footer{
     background-color: var(--secondary-color);
-    color: var(--footer-fonts-color);
     padding: 5rem;
 }
 .social-icons img{
