@@ -72,3 +72,6 @@ h6{
     color: var(--footer-fonts-color);
     padding: 5rem;
 }
+.social-icons img{
+    width: 18px;
+}
