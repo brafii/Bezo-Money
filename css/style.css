@@ -82,13 +82,13 @@ h6{
 .footer ul li{
     list-style: none;
     line-height: 2em;
-    font-size: .9em;
+    font-size: 15px;
     color: var(--footer-fonts-color);
 }
 .footer ul li a{
     text-decoration: none;
     color: var(--footer-fonts-color);
-    font-size: .9em;
+    font-size: 15px;
 }
 .footer ul li a:hover{
     color: var(--default-color);
