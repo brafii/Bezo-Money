@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+:root{
+    --default-color: #203BAA;
+    --secondary-color: #F1F5FE;
+    --cards-color: #203AA9;
+    --font-color: #011b33;
+    --footer-fonts-color: #707070;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.6;
+    color: #011b33;
+    background-color: #fff;
+}
+h1{
+    color: var(--default-color);
+    font-weight: 800;
+    font-size: 40px;
+    letter-spacing: -0.02em;
+}
+h6{
+    color: var(--default-color);
+    font-weight: 700;
+    letter-spacing: -0.02em;
+}
+.navbar-brand img{
+    width: 150px;
+}
+.footerImg{
+    width: 200px;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: var(--font-color);
+    font-size: 15px;
+    margin: 1rem 0.5rem;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    color: var(--default-color);
+}
+.banner-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.spacearound, .partners{
+    padding-right: 10rem;
+    padding-left: 10rem;
+}
+.sectionOne, .sectionThree, .customer{
+    padding-top: 5rem;
+    padding-bottom: 4rem;
+}
+.sectionTwo{
+    background-color: var(--secondary-color);
+}
+.market-woman{
+    width: 70%;
+}
+.quote{
+    background-color: var(--default-color);
+    color: #fff;
+}
+.quote p{
+    font-size: 1.4em;
+}
+.customer img{
+    width: 70%;
+}
+.footer{
+    background-color: var(--secondary-color);
+    color: var(--footer-fonts-color);
+    padding: 5rem;
+}
