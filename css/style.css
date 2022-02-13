@@ -81,6 +81,8 @@ h6{
 .footer ul li{
     list-style: none;
     line-height: 2em;
+    font-size: .9em;
+    color: var(--footer-fonts-color);
 }
 .footer ul li a{
     text-decoration: none;
