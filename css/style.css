@@ -93,3 +93,6 @@ h6{
     color: var(--default-color);
     transition: 1s;
 }
+.footerTwo p{
+    font-size: .9em;
+}
