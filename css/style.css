@@ -55,6 +55,7 @@ h6{
     padding-bottom: 4rem;
 }
 .sectionTwo{
+    padding: 20px 0 80px 0;
     background-color: var(--secondary-color);
 }
 .card{
