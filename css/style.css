@@ -69,6 +69,14 @@ h6{
     width: 26%;
     margin-top: 80px;
 }
+.section-products{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.spaceme{
+    padding: 90px;
+}
 .market-woman{
     width: 70%;
 }
