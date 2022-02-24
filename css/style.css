@@ -38,6 +38,9 @@ h6{
 .navbar-light .navbar-nav .nav-link:hover{
     color: var(--default-color);
 }
+.leftBorber{
+    border-left: 1px solid #fff;
+}
 .banner-content{
     display: flex;
     align-items: center;
