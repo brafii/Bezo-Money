@@ -57,6 +57,18 @@ h6{
 .sectionTwo{
     background-color: var(--secondary-color);
 }
+.card{
+    background-color: var(--cards-color);
+    border-radius: 12px;
+}
+.sectionTwo a{
+    text-decoration: none;
+    color: #fff;
+}
+.sectionTwo img{
+    width: 26%;
+    margin-top: 80px;
+}
 .market-woman{
     width: 70%;
 }
