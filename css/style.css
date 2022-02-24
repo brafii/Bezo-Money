@@ -60,6 +60,7 @@ h6{
 .quote{
     background-color: var(--default-color);
     color: #fff;
+    padding: 90px 0;
 }
 .quote p{
     font-size: 1.4em;
